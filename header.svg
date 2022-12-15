@@ -2,11 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 
-			<a href="https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW">
-			<p align="center">
-			    Ciao
-			</p>
-			</a>
+			<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1AVtceapuF36oZqI9gzp0o?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 		</div>
 	</foreignObject>
