@@ -12,9 +12,3 @@
     <img src="https://64.media.tumblr.com/35c4eabb3707aa0638002ad7d352ded8/6d5ee5a41a5722fd-51/s250x400/f40b83eb848105bee83eb8f797701dc33090114d.gifv">
     <img src="https://64.media.tumblr.com/94ecaeb26427d86d0ed9d6d9f3cf1229/6d5ee5a41a5722fd-8f/s250x400/523ba11823f427774d785b3189444de2f911cf51.gifv">
 </div>
-
-________
-
-<div align="center">
-    <img src="header.svg" width="800" height="400">
-</div>
