@@ -1,3 +1,1 @@
-whos the cuties guy reading my bio? :cupid: :sparkles: :two_hearts: :sparkling_heart:
-
-![theOfficeGif](https://media.tenor.com/mKfeCtD5EukAAAAC/the-office-the.gif)
+![wednesday](https://64.media.tumblr.com/94ecaeb26427d86d0ed9d6d9f3cf1229/6d5ee5a41a5722fd-8f/s250x400/523ba11823f427774d785b3189444de2f911cf51.gifv)
