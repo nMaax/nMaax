@@ -4,7 +4,9 @@
 </p>
 </a>
 
-<div align="center">
+<p align="center">⊱ ──────⋇⋆✦⋆⋇────── {⋅. ✯ .⋅} ──────⋇⋆✦⋆⋇────── ⊰ </p>
+
+<div align="center">    
     <img src="https://64.media.tumblr.com/43f092c79052dda6075b47a36f8a4a02/6d5ee5a41a5722fd-2a/s250x400/f81e0fba08a3a721eb0b32c0c8a757753ba59b49.gifv">
     <img src="https://64.media.tumblr.com/8db5c2db7621933b306ab4d8983d2354/6d5ee5a41a5722fd-ff/s250x400/407997e36e5647dfdfb3c85c3c7b10105df097aa.gifv">
     <img src="https://64.media.tumblr.com/5e75215438b91a0f2100ddeeb9dd1da0/6d5ee5a41a5722fd-a1/s250x400/b579ea99a9bbcc9fc68efe6bda002bc22ac3578f.gifv">
