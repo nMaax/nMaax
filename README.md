@@ -6,4 +6,4 @@
 
 ## | *"Il vero piacere nell'apprendimento risiede nel vedere la complessità trasformarsi in chiarezza."*
 
-👋 Ciao! Sono [Tuo Nome], uno studente di Ingegneria e Data Science presso il Politecnico di Torino. Questo profilo GitHub secondario ospita repository che mostrano alcuni dei miei progetti meno rilevanti creati per compiti universitari, iniziative personali e commerciali. Sentiti libero di esplorare e alcuni lavori a cui ho partecipato.
+👋 Ciao! Sono Massimiliano, uno studente di Data Science presso il Politecnico di Torino. Questo profilo GitHub secondario ospita repository che mostrano alcuni dei miei progetti meno rilevanti creati per compiti universitari, iniziative personali e commerciali. Sentiti libero di esplorare e alcuni lavori a cui ho partecipato.
