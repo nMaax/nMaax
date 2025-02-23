@@ -1,6 +1,6 @@
 ## | *"The true pleasure in learning lies in seeing the complexity become simplicity."*
 
-👋 Hi there! I'm Massimiliano, a student at Polytechnic of Turin in Data Science and Engineering. This GitHub profile hosts repositories featuring some of my projects created for university assignments, personal endeavors, and commercial purposes. Feel free to explore!
+👋 Hi there! I'm Massimiliano, a student at Politecnico di Torino (![italy](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/it.png)) in Data Science and Engineering. This GitHub profile hosts repositories featuring some of my projects created for university assignments, personal endeavors, and commercial purposes. Feel free to explore!
 
 ---
 
